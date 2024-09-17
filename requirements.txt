@@ -1,0 +1,7 @@
+pinecone-client
+cohere
+sentence-transformers
+pymupdf
+gradio
+openai
+langchain
